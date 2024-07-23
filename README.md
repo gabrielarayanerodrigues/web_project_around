@@ -12,4 +12,6 @@ Grid
 Posicionamento absoluto e fixo
 Media queries
 FIGMA
-Princípios de JavaScript: Botões e alteração de HTML com base em formulário
+Princípios de JavaScript: Botões e alteração de HTML com base em formulário. 
+
+Você pode ver mais informações sobre ele online acessando https://gabrielarayanerodrigues.github.io/web_project_around/.

@@ -19,10 +19,12 @@
 }
 
 .popup__image-photo {
-  width: 433px;
-  height: 540px;
-  object-fit: cover;
-}
+    width: auto; 
+    height: auto; 
+    max-width: 75vw; 
+    max-height: 75vh; 
+    object-fit: contain; 
+  }
 
 .popup__image-name {
   font-size: 12px;
