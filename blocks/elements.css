@@ -55,6 +55,7 @@
   align-items: center;
   background-color: #ffffff;
   max-height: 79px;
+  padding: 0 21px;
 }
 
 .elements__title {
