@@ -28,6 +28,7 @@
   width: 100%;
   height: 100%;
   cursor: pointer;
+  object-fit: cover;
 }
 
 .elements__image-trash {
